@@ -1,4 +1,9 @@
-# Desafio Produtos - Flutter
+# Language selector
+<p align="right">
+	<b>🌐 Languages:</b>
+	<a href="README.md">English</a> |
+	<a href="README.pt-br.md">Português (BR)</a>
+</p>
 
 # Flutter Product List Challenge
 

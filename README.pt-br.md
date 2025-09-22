@@ -1,3 +1,10 @@
+# Seletor de idioma
+<p align="right">
+  <b>🌐 Idiomas:</b>
+  <a href="README.md">English</a> |
+  <a href="README.pt-br.md">Português (BR)</a>
+</p>
+
 # Desafio Produtos - Flutter
 
 Este projeto é uma solução para o desafio de listagem de produtos, simulando parte da funcionalidade de um sistema "fura fila" para lojas de vestuário, utilizando Flutter, arquitetura Cubit + Repository e boas práticas de modularização.
