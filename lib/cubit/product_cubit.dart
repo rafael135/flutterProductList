@@ -12,7 +12,7 @@ class ProductCubit extends Cubit<ProductState> {
   List<String> _categories = [];
   String? _selectedCategory;
   int _page = 1;
-  final int _pageSize = 10;
+  final int _pageSize = 8;
   List<Product> _currentList = [];
   bool _hasMore = true;
   bool get hasMore => _hasMore;
